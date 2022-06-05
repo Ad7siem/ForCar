@@ -1,0 +1,14 @@
+E:\Pliki (E)\Programowanie\C#\Projekt\ForCar\bin\Debug\netcoreapp3.1\ForCar.exe
+E:\Pliki (E)\Programowanie\C#\Projekt\ForCar\obj\Debug\netcoreapp3.1\ForCar.AssemblyInfoInputs.cache
+E:\Pliki (E)\Programowanie\C#\Projekt\ForCar\obj\Debug\netcoreapp3.1\ForCar.AssemblyInfo.cs
+E:\Pliki (E)\Programowanie\C#\Projekt\ForCar\bin\Debug\netcoreapp3.1\ForCar.deps.json
+E:\Pliki (E)\Programowanie\C#\Projekt\ForCar\bin\Debug\netcoreapp3.1\ForCar.runtimeconfig.json
+E:\Pliki (E)\Programowanie\C#\Projekt\ForCar\bin\Debug\netcoreapp3.1\ForCar.runtimeconfig.dev.json
+E:\Pliki (E)\Programowanie\C#\Projekt\ForCar\bin\Debug\netcoreapp3.1\ForCar.dll
+E:\Pliki (E)\Programowanie\C#\Projekt\ForCar\bin\Debug\netcoreapp3.1\ForCar.pdb
+E:\Pliki (E)\Programowanie\C#\Projekt\ForCar\obj\Debug\netcoreapp3.1\ForCar.csproj.AssemblyReference.cache
+E:\Pliki (E)\Programowanie\C#\Projekt\ForCar\obj\Debug\netcoreapp3.1\ForCar.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pliki (E)\Programowanie\C#\Projekt\ForCar\obj\Debug\netcoreapp3.1\ForCar.csproj.CoreCompileInputs.cache
+E:\Pliki (E)\Programowanie\C#\Projekt\ForCar\obj\Debug\netcoreapp3.1\ForCar.dll
+E:\Pliki (E)\Programowanie\C#\Projekt\ForCar\obj\Debug\netcoreapp3.1\ForCar.pdb
+E:\Pliki (E)\Programowanie\C#\Projekt\ForCar\obj\Debug\netcoreapp3.1\ForCar.genruntimeconfig.cache
